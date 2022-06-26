@@ -31,6 +31,31 @@ layout: default
     </ul>
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <!--  -->
+    <script src="https://ssp.seznam.cz/static/js/ssp.js"></script><!--
+      následující element nebo elementy reprezentují každý jednu reklamní plochu (zónu);
+      vložte je prosím jednotlivě na místa ve stránce, kde chcete zobrazit reklamu odpovídajících
+      rozměrů (parametry width [maximální šířka] a height [maximální výška] jsou uvedeny v definici
+      reklamních zón níže); element s konkrétním ID smí být na stránce vždy jen jednou
+      -->
+      <div id="ssp-zone-6171"></div>
+      <script>
+      /* následující blok vložte do stránky kamkoli za připojení výdejového a měřicího */
+      /* skriptu a definici reklamních zón (elementy pro reklamu musí v okamžiku volání */
+      /* metody getAds() ve zdrojovém kódu stránky fyzicky existovat) */
+      /* metoda getAds() zajišťuje získání reklamy z reklamního systému a její vykreslení */
+      /* do stránky; parametry jednotlivých zón jsou definované v níže uvedeném poli, */
+      /* které je argumentem této metody */
+      sssp.getAds([
+      {
+        "zoneId": 6171,			/* unikátní identifikátor reklamní zóny */
+        "id": "ssp-zone-6171",	/* ID elementu, do kterého se vypisuje reklama */
+        "width": 300,	/* maximální šířka reklamy v zóně */
+        "height": 250	/* maximální výška reklamy v zóně */
+      }
+      ]);
+      </script>
+      <!--  -->
   {%- endif -%}
 
 </div>
