@@ -5,7 +5,7 @@ date:   2020-02-10 21:12:03 +0200
 categories:
 permalink: /about/2020-02-10-zsh-jak-nacist-zshrc-bez-rebootu/ 
 ---
-Když uděláte nějaké změny v  .zshrc, například si nakonfigurujete aliasy atd. tak se změny neukáží hned. Je potřeba zmovu načíst .zshrc. To se dá udělat několika způsoby:
+Když uděláte nějaké změny v  .zshrc, například si nakonfigurujete aliasy atd. tak se změny neukáží hned. Je potřeba znovu načíst .zshrc. To se dá udělat několika způsoby:
 * reboot
 * odhlásit a přihlásit se
 * vynutit znovunačtení .zshrc
