@@ -2,7 +2,8 @@
 layout: post
 title:  "Mastodon, copa to je?"
 date:   2022-11-12 17:49:25 +0200
-categories: jekyll update
+categories:
+permalink: /2022-11-12-mastodon-copa-to-je/ 
 ---
 Poslední dobou, co Elon Musk řídí Twitter přes Twitter se spousta lidí začala poohlížet kam se přesunout když by to na Twitteru už nešlo.
 
