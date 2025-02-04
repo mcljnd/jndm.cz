@@ -4,6 +4,9 @@ title:  "Mastodon, copa to je?"
 date:   2022-11-12 17:49:25 +0200
 categories:
 permalink: /2022-11-12-mastodon-copa-to-je/ 
+post_excerpt: "Poslední dobou, co Elon Musk řídí Twitter přes Twitter se spousta lidí začala poohlížet kam se přesunout když by to na Twitteru už nešlo.
+
+Často zmiňovanou volbou je Mastodon, s tím že to je decentralizovaná náhrada Twitteru."
 ---
 Poslední dobou, co Elon Musk řídí Twitter přes Twitter se spousta lidí začala poohlížet kam se přesunout když by to na Twitteru už nešlo.
 
